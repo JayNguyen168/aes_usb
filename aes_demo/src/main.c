@@ -16,5 +16,7 @@ int main() {
     token_init(&token,"demo_user",key);
     token_encrypt_and_log(&token,plaintext);
 
+    token_wipe(&token); // xóa secrets
+
     return 0;
 }
