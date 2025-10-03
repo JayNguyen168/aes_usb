@@ -1,4 +1,4 @@
-# Install script for directory: D:/vivado_pj/usb_mass_storage/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/libsrc/usbpsu/src
+# Install script for directory: C:/Users/asus/Desktop/USBToken/USB_CDC_Ultra96v2/usb_mass_storage/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp/libsrc/usbpsu/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,6 +34,6 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "D:/2025.1/Vitis/gnu/aarch64/nt/aarch64-none/bin/aarch64-none-elf-objdump.exe")
+  set(CMAKE_OBJDUMP "E:/Xilinx/2025.1/Vitis/gnu/aarch64/nt/aarch64-none/bin/aarch64-none-elf-objdump.exe")
 endif()
 

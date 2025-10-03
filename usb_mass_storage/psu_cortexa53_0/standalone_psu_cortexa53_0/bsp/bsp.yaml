@@ -1,6 +1,6 @@
 sdt: hw_artifacts\psu_cortexa53_0_baremetal.dts
 family: ZynqMP
-path: D:\vivado_pj\usb_mass_storage\psu_cortexa53_0\standalone_psu_cortexa53_0\bsp
+path: C:/Users/asus/Desktop/USBToken/USB_CDC_Ultra96v2/usb_mass_storage/psu_cortexa53_0/standalone_psu_cortexa53_0/bsp
 config: None
 os: standalone
 os_info:

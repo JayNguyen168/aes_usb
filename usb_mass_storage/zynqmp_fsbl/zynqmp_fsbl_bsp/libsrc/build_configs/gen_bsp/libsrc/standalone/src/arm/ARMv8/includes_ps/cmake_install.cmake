@@ -1,4 +1,4 @@
-# Install script for directory: D:/vivado_pj/usb_mass_storage/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/standalone/src/arm/ARMv8/includes_ps
+# Install script for directory: C:/Users/asus/Desktop/USBToken/USB_CDC_Ultra96v2/usb_mass_storage/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/standalone/src/arm/ARMv8/includes_ps
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,11 +34,11 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "D:/2025.1/Vitis/gnu/aarch64/nt/aarch64-none/bin/aarch64-none-elf-objdump.exe")
+  set(CMAKE_OBJDUMP "E:/Xilinx/2025.1/Vitis/gnu/aarch64/nt/aarch64-none/bin/aarch64-none-elf-objdump.exe")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/vivado_pj/usb_mass_storage/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/standalone/src/arm/ARMv8/includes_ps/platform/cmake_install.cmake")
+  include("C:/Users/asus/Desktop/USBToken/USB_CDC_Ultra96v2/usb_mass_storage/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/standalone/src/arm/ARMv8/includes_ps/platform/cmake_install.cmake")
 endif()
 

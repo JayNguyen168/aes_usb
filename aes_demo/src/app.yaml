@@ -1,0 +1,4 @@
+domain_path: C:\Users\asus\Desktop\USBToken\USB_CDC_Ultra96v2\usb_mass_storage\export\usb_mass_storage\sw\standalone_psu_cortexa53_0
+app_src_dir: E:\Xilinx\2025.1\Vitis\data\embeddedsw\lib\sw_apps\empty_application
+template: empty_application
+lang: c
